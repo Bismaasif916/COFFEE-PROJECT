@@ -248,5 +248,10 @@ html ::-webkit-scrollbar{
     font-size: 25px;
     text-align: center;
 }
+#product p{
+    color: #b2744c;
+    font-size: 16px;
+    padding-top: 10px;
+}
     
 /* product end here */
